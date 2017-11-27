@@ -1,2 +1,2 @@
-# cs522_chicago_crime
+# chicago_crime
 another_course_project
